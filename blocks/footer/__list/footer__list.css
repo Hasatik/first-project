@@ -1,0 +1,6 @@
+.footer__list{
+    margin-bottom: 10px;
+  }
+  .footer__list:last-child{
+    margin-bottom: 0;
+  }
