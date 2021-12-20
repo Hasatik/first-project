@@ -3,4 +3,10 @@
     height: 16px;
     border: none;
     padding-right: 10px;
+    opacity: 1;
+    transition: opacity 1s ease;
   }
+
+ .footer__social-icon:hover{
+   opacity: 0.3;
+ } 
