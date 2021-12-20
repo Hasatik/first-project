@@ -6,4 +6,11 @@
     position: absolute;
     top: 50%;
     right: 48px;
+    color: #2f80ed;
+    transition: opacity 1s ease;
+    margin-bottom: 500px;
+}
+
+.feynman__link:hover{
+    opacity: 0.3;
 }

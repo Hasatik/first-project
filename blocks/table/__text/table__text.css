@@ -1,11 +1,10 @@
 .table__text{
+    margin-top: 20px;
     font-size: 18px;
     font-weight: normal;
     line-height: 1.2;
-    /* text-align: start; */
   }
   
   .table__text:nth-child(2){
-    margin-top: 20px;
     margin-bottom: 20px;
   }

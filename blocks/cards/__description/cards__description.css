@@ -6,3 +6,7 @@
     line-height: 23px;
     text-align: center;
   }
+
+  .cards__description:last-child{
+    margin-bottom: 100px;
+  }
